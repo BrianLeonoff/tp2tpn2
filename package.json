@@ -1,0 +1,20 @@
+{
+  "name": "trabajo-practico-n2",
+  "version": "1.0.0",
+  "description": "",
+  "main":"ms.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianLeonoff/tp2tpn2.git"
+  },
+  "author": "Brian Leonoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianLeonoff/tp2tpn2/issues"
+  },
+  "homepage": "https://github.com/BrianLeonoff/tp2tpn2#readme"
+}

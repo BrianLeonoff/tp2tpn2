@@ -1,0 +1,24 @@
+{
+	"contenidoStr": "{\n  \"name\": \"trabajo-practico-n2\",\n  \"version\": \"1.0.0\",\n  \"description\": \"\",\n  \"main\":\"ms.js\",\n  \"type\": \"module\",\n  \"scripts\": {\n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"\n  },\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"git+https://github.com/BrianLeonoff/tp2tpn2.git\"\n  },\n  \"author\": \"Brian Leonoff\",\n  \"license\": \"ISC\",\n  \"bugs\": {\n    \"url\": \"https://github.com/BrianLeonoff/tp2tpn2/issues\"\n  },\n  \"homepage\": \"https://github.com/BrianLeonoff/tp2tpn2#readme\"\n}\n",
+	"contenidoObj": {
+		"name": "trabajo-practico-n2",
+		"version": "1.0.0",
+		"description": "",
+		"main": "ms.js",
+		"type": "module",
+		"scripts": {
+			"test": "echo \"Error: no test specified\" && exit 1"
+		},
+		"repository": {
+			"type": "git",
+			"url": "git+https://github.com/BrianLeonoff/tp2tpn2.git"
+		},
+		"author": "Brian Leonoff",
+		"license": "ISC",
+		"bugs": {
+			"url": "https://github.com/BrianLeonoff/tp2tpn2/issues"
+		},
+		"homepage": "https://github.com/BrianLeonoff/tp2tpn2#readme"
+	},
+	"size": 488
+}
